@@ -1,0 +1,16 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="30" height="30" viewBox="0 0 30 30">
+  <g id="fiber" transform="translate(-26 -736)">
+    <rect id="Rectangle_7552" data-name="Rectangle 7552" width="30" height="30" transform="translate(26 736)" fill="none"/>
+    <g id="ic_jiofiber" transform="translate(2289 2439)">
+      <g id="Group_25156" data-name="Group 25156" transform="translate(-2261 -1698)">
+        <path id="Path_64677" data-name="Path 64677" d="M25.852,47.536H4.9a1.91,1.91,0,0,1-1.9-1.9V42.2a1.91,1.91,0,0,1,1.9-1.9H25.852a1.91,1.91,0,0,1,1.9,1.9v3.459A1.9,1.9,0,0,1,25.852,47.536Z" transform="translate(-1.756 -30.12)" fill="#04bd9e"/>
+        <path id="Path_375" data-name="Path 375" d="M25.852,47.536H4.9a1.91,1.91,0,0,1-1.9-1.9V42.2a1.91,1.91,0,0,1,1.9-1.9H25.852a1.91,1.91,0,0,1,1.9,1.9v3.459A1.9,1.9,0,0,1,25.852,47.536Z" transform="translate(-3 -28.461)" fill="none" stroke="#004338" stroke-miterlimit="10" stroke-width="1.4"/>
+        <circle id="Ellipse_103" data-name="Ellipse 103" cx="1.238" cy="1.238" r="1.238" transform="translate(2.38 14.219)" fill="#fff"/>
+        <circle id="Ellipse_104" data-name="Ellipse 104" cx="1.238" cy="1.238" r="1.238" transform="translate(6.03 14.219)" fill="#fff"/>
+        <line id="Line_313" data-name="Line 313" y2="9.49" transform="translate(18.091 2.349)" fill="none" stroke="#004338" stroke-linecap="round" stroke-miterlimit="10" stroke-width="1.4"/>
+        <path id="Path_376" data-name="Path 376" d="M47.5,7.666A3.276,3.276,0,0,1,47.5,3" transform="translate(-32.711 -3)" fill="none" stroke="#004338" stroke-linecap="round" stroke-miterlimit="10" stroke-width="1.4"/>
+        <path id="Path_377" data-name="Path 377" d="M70.4,3a3.276,3.276,0,0,1,0,4.666" transform="translate(-49.008 -3)" fill="none" stroke="#004338" stroke-linecap="round" stroke-miterlimit="10" stroke-width="1.4"/>
+      </g>
+    </g>
+  </g>
+</svg>
